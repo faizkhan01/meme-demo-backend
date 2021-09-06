@@ -1,5 +1,3 @@
-"use strict";
-
 const express = require("express");
 const { upload } = require("../helpers/filehelper");
 const {
